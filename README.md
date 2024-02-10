@@ -1,13 +1,36 @@
 # Timestamp Microservice
 
+## Live Demo
+
+https://timestamp-api-express.onrender.com/
+
+## Run local
+
+Install node modules:
+
+```
+npm install
+```
+
+Run the project locally:
+
+```
+npm run start
+```
+
+or
+
+```
+node index.js
+```
+
 ## Example Usage
 
-https://timestamp-api-express.onrender.com/api/2024-02-10
-
-https://timestamp-api-express.onrender.com/api/1451001600000
-
-https://timestamp-api-express.onrender.com/api/
-
+```sh
+localhost:3030/api/2024-02-10
+localhost:3030/api/1451001600000
+localhost:3030/api/
+```
 
 ## Example Outputs:
 
